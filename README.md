@@ -25,6 +25,7 @@ This project allows you to manage books in a library with basic operations like 
 ---
 ---
 ## Sample Input
+<pre>
 1
 Java Basics
 Herbert Schildt
@@ -43,6 +44,7 @@ Java
 2
 4
 0
+</pre>
 ---
 ---
 ## Sample Output
