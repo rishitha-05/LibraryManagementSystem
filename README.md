@@ -48,6 +48,8 @@ Java
 ---
 ---
 ## Sample Output
+
+<pre>
 Book added successfully: 1 | Java Basics | Herbert Schildt | Available
 Book added successfully: 2 | Python 101 | Guido van Rossum | Available
 
@@ -72,4 +74,5 @@ Book with ID 2 removed.
 
 Exiting... Goodbye!
 
+</pre>
 ---
